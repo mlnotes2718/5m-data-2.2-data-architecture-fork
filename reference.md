@@ -8,3 +8,7 @@
   - https://www.geeksforgeeks.org/cap-theorem-vs-base-consistency-model-distributed-system/
 - Data Governance Cheat Sheet
   - https://www.datacamp.com/cheat-sheet/data-governance-fundamentals-cheatsheet
+
+### Foundation
+- [Data Management](https://www.ibm.com/topics/data-management)
+- [Data Governance](https://www.ibm.com/topics/data-governance)
